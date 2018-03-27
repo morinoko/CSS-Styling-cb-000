@@ -27,3 +27,8 @@ figcaption {
 #logo {
   background-color: aqua;
 }
+
+/*Descendent Selector*/
+#logo h1 { /* only style h1 inside logo */
+  fon
+}
