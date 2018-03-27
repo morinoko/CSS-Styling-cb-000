@@ -30,5 +30,5 @@ figcaption {
 
 /*Descendent Selector*/
 #logo h1 { /* only style h1 inside logo */
-  fon
+  font-family: 'Clicker Script', cursive;
 }
