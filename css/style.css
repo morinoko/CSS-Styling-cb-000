@@ -1,8 +1,4 @@
-/* CSS Syntax:
-selector {
-  property: value;
-}
-*/
+@import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps:400,900');
 
 p { /* select all <p>*/
   font-size: 1em; /* 16px, ?pt, 100%, 1em */
