@@ -24,3 +24,6 @@ figcaption {
 }
 
 /*ID Selector (one item per page)*/
+#logo {
+  background-color: aqua;
+}
