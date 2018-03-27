@@ -16,8 +16,11 @@ figcaption {
   color: #777;
 }
 
+/*Class Selector (many items per page)*/
 .milk-text {
   font: bold 2.6em 'Elsie Swash Caps', cursive;
   color: white;
   text-shadow: 0 2px 3px #000;
 }
+
+/*ID Selector (one item per page)*/
